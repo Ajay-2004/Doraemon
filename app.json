@@ -8,9 +8,9 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/MoTechYT/MT-FilesStoreBot",
-    "website": "https://github.com/MRK-YT",
-    "success_url": "https://telegram.dog/Mo_Tech_YT",
+    "repository": "https://github.com/Ajay-2004/Doraemon",
+    "website": "https://github.com/Ajay-2004",
+    "success_url": "https://telegram.dog/doflix_studios",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @MT_MyTelegramOrg_Bot"
